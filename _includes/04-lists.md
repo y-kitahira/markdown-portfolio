@@ -1,0 +1,17 @@
+1. FOODS
+   1. FLUITS
+      - 🍎
+      - 🍌
+      - 🥝
+   2. VEGETABLES
+      - 🍅
+      - 🌽
+      - 🥕
+2. VEHICLES
+   1. AIRCRAFT
+      - ✈️
+      - 🚁
+   2. OTHER
+      - 🚆
+      - 🚗
+      - 🛳️
